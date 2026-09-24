@@ -1,0 +1,11 @@
+/edge-provisioner
+*.key
+.env
+.env.*
+!.env.example
+.DS_Store
+/.agents/
+/.opencode/
+/_bmad/
+/_bmad-output/
+/docs/tailscale-edge-provisioner-prd.md
